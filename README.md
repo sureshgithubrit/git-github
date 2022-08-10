@@ -1,2 +1,2 @@
 # git-github
-Studyguide
+This is for learning purpose
